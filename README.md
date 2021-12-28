@@ -1,3 +1,18 @@
+# html 简历
+本项目fork自[mnjul/html-resume](https://github.com/mnjul/html-resume) ，进行了一些小修改，塞了一些中文。效果图如下：
+
+![image](./resume-template-cn.png)
+
+# 使用方法
+克隆本项目：
+```shell
+git clone git@github.com:yanbo92/html-resume.git
+```
+
+按照个人信息修改`resume.html`, 用`Firefox`浏览器打开，打印成pdf即可
+
+
+# 原项目README.md：
 # html-resume
 A single-page résumé template done purely with HTML and CSS, which can be rendered into PDF through web browsers' print-to-PDF functionality, making a nice, sleek, professsional and ready-to-print résumé. See my living example at: https://mnjul.net/cv/resume.pdf
 
