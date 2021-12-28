@@ -1,7 +1,7 @@
 # html 简历
 本项目fork自[mnjul/html-resume](https://github.com/mnjul/html-resume) ，进行了一些小修改，塞了一些中文。效果图如下：
 
-![image](./resume-template-cn.png)(url){:height="50%" width="50%"}
+![image](./resume-template-cn.png){:height="50%" width="50%"}
 
 # 使用方法
 克隆本项目：
